@@ -1,5 +1,5 @@
 # Introducing Myself
-<img width="2172" height="724" alt="Advertise LinkedIn or Github" src="https://github.com/user-attachments/assets/49ce85eb-00fc-426a-bccf-8ab835d9b872" />
+<img width="2172" height="724" alt="Advertise LinkedIn or Github" src="https://github.com/user-attachments/assets/1d29445b-e2f4-4038-a760-3683486e2f74" />
 <h3 align="center">
 Operations Analytics • Data Analytics • Python Automation
 </h3>
