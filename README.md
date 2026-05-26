@@ -27,7 +27,7 @@ I enjoy solving real-world business problems through automation, analytics, and 
 
 ## Featured Projects
 
-### Warehouse Label Automation System
+### Inventory Label Automation System
 Developed a Python application utilizing pandas, Tkinter, barcode scanning, and Zebra printer integration to automate warehouse product identification and thermal label printing workflows.
 
 **Impact:**
@@ -40,7 +40,7 @@ Python • pandas • Tkinter • Excel • Zebra Printer Integration
 
 ---
 
-### Return Rate Risk Modeling & Forecasting
+### Damage Rate Risk Modeling & Forecasting
 Built an analytics model designed to identify high-risk products through deviation analysis, rolling trends, threshold detection, and forecasting methodologies.
 
 **Key Features:**
@@ -78,7 +78,6 @@ Created operational reporting solutions focused on identifying performance trend
 
 ### Data & Visualization
 - Power BI
-- Tableau
 - Forecasting
 - Statistical Analysis
 - KPI Reporting
@@ -105,7 +104,7 @@ Created operational reporting solutions focused on identifying performance trend
 
 - Email: akzendejas14@gmail.com
 - GitHub: https://github.com/AKDavis24
-- LinkedIn: *(Add your LinkedIn URL here)*
+- LinkedIn: https://www.linkedin.com/in/alex-davis-7517181b0/
 
 ---
 
