@@ -74,7 +74,6 @@ Created operational reporting solutions focused on identifying performance trend
 - SQL
 - Excel
 - pandas
-- Tkinter
 
 ### Data & Visualization
 - Power BI
